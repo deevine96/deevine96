@@ -2,7 +2,7 @@
 
 🎓 **BCA Student | AI & ML Enthusiast | Python Developer**  
 
-I’m a curious learner who loves exploring how technology can solve real-world problems. My current focus is on **Artificial Intelligence, Machine Learning, and Data Science** — but I also enjoy experimenting with **Python**, **web development**, and **cloud computing**.  
+I’m a curious learner who loves exploring how technology can solve real-world problems. My current focus is on **Artificial Intelligence, Machine Learning, and Data Science** but I also enjoy experimenting with **Python**, **web development**, and **cloud computing**.  
 
 💡 **What I love:**  
 - Building small projects that make learning fun  
@@ -21,6 +21,6 @@ Improving my Python skills and working on beginner-level AI/ML projects.
 🚀 **Goal:**  
 To grow into a confident AI developer and work on impactful, real-world tech solutions.  
 
-📫 *Let’s connect:**
+📫 *Let’s connect:*
 [LinkedIn](#) | [GitHub](https://github.com/deevine96)
 
