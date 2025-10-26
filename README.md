@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepanshi Pillania  
 
-<!--
-**deevine96/deevine96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student | AI & ML Enthusiast | Python Developer**  
 
-Here are some ideas to get you started:
+I’m a curious learner who loves exploring how technology can solve real-world problems. My current focus is on **Artificial Intelligence, Machine Learning, and Data Science** — but I also enjoy experimenting with **Python**, **web development**, and **cloud computing**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I love:**  
+- Building small projects that make learning fun  
+- Collaborating in hackathons and team projects  
+- Exploring new tools and technologies  
+- Turning ideas into working code  
+
+🛠️ **Tech Skills:**  
+- **Languages:** Python, HTML, CSS, JavaScript (basics)  
+- **Tools & Tech:** Git, VS Code, Google Colab, Jupyter Notebook  
+- **Areas of Interest:** Machine Learning, Data Visualization, Cloud Computing  
+
+🌱 **Currently Learning:**
+Improving my Python skills and working on beginner-level AI/ML projects.  
+
+🚀 **Goal:**  
+To grow into a confident AI developer and work on impactful, real-world tech solutions.  
+
+📫 *Let’s connect:**
+[LinkedIn](#) | [GitHub](https://github.com/deevine96)
+
